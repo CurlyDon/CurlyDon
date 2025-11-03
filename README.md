@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Donovan Colo
 - 👀 I’m interested in embedded systems, integrated circuits, and control systems.
-- 🌱 I’m currently learning about databases management and electronic mesh systems.
+- 🌱 I’m currently working towards my masters in electrical and computer engineering.
 - 💞️ I’m looking to collaborate on any software or hardware challenges.
-- 📫 How to reach me by email: donovan.j.colo@wmich.edu.
+- 📫 How to reach me by email: donovancolo22@gmail.com.
